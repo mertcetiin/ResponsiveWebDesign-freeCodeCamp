@@ -8,3 +8,6 @@
 
 03-Product Landing Page
 ![image](https://github.com/mertcetiin/ResponsiveWebDesign-freeCodeCamp/assets/102957602/bf7d5c72-b8d1-4354-a163-199cda28b705)
+
+04-Technical Documentation Page
+![image](https://github.com/mertcetiin/ResponsiveWebDesign-freeCodeCamp/assets/102957602/6ad80898-2c6a-4e65-9d75-d3e82547e82a)
